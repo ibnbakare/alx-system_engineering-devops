@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ga -Ga
+ls -la -n
