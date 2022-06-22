@@ -1,2 +1,2 @@
-#!bin/usr
-pwd
+#!bin/bash
+echo ("pwd" /n)
