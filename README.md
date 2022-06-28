@@ -1,1 +1,1 @@
-Working on shell with bash commands
+this files contain pin shell I/O redirections
