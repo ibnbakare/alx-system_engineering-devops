@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'n-mN-m' 'nm-tlsl-qs'
+tr 'a-zA-Z' 'nm-tlsl-qs'
