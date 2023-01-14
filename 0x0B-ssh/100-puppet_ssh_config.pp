@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #client config with puppet
+include stdlib
+
 
 file_line { 'turn of passwd auth':
   ensure  =>  present,
