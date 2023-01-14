@@ -1,0 +1,6 @@
+# ssh config file
+#Client configuration to change /etc/ssh/config private identity to school and stop password usage
+
+Host *
+	passwordAuthentication no
+	IdentifyFile ~/.ssh/school
