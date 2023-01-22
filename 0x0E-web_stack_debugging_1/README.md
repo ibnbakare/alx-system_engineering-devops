@@ -1,0 +1,1 @@
+Debigging ngnix to listen to port 80
